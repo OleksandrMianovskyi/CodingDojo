@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Randori.Factorial
 {
@@ -10,6 +6,10 @@ namespace Randori.Factorial
     {
         static void Main(string[] args)
         {
+            var repetition = new Repetition();
+
+            Console.Write(repetition.GetString());
+            Console.ReadLine();
         }
     }
 }
