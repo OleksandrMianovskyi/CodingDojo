@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.TurkishNumbers", "R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.TurkishNumbers.Tests", "Randori.TurkishNumbers.Tests\Randori.TurkishNumbers.Tests.csproj", "{E2426973-DDBA-4CAF-B4BE-4BFE1EDD98D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.SimpleEquationReversal", "Randori.SimpleEquationReversal\Randori.SimpleEquationReversal.csproj", "{A0CF2126-048B-4458-98DD-EBEA0770DE07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.SimpleEquationReversal.Tests", "Randori.SimpleEquationReversal.Tests\Randori.SimpleEquationReversal.Tests.csproj", "{35E44A13-1784-4652-93EE-F32E9B11E8A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{E2426973-DDBA-4CAF-B4BE-4BFE1EDD98D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2426973-DDBA-4CAF-B4BE-4BFE1EDD98D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2426973-DDBA-4CAF-B4BE-4BFE1EDD98D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0CF2126-048B-4458-98DD-EBEA0770DE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0CF2126-048B-4458-98DD-EBEA0770DE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0CF2126-048B-4458-98DD-EBEA0770DE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0CF2126-048B-4458-98DD-EBEA0770DE07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E44A13-1784-4652-93EE-F32E9B11E8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E44A13-1784-4652-93EE-F32E9B11E8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E44A13-1784-4652-93EE-F32E9B11E8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E44A13-1784-4652-93EE-F32E9B11E8A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
