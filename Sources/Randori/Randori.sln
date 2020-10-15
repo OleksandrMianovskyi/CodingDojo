@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.SimpleEquationRever
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.SimpleEquationReversal.Tests", "Randori.SimpleEquationReversal.Tests\Randori.SimpleEquationReversal.Tests.csproj", "{35E44A13-1784-4652-93EE-F32E9B11E8A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.7_ThePonyExpress", "Randori.7_ThePonyExpress\Randori.7_ThePonyExpress.csproj", "{B5631AA3-D755-462C-977E-A40287488E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.7_ThePonyExpress.Tests", "Randori.7_ThePonyExpress.Tests\Randori.7_ThePonyExpress.Tests.csproj", "{F423AEE4-FD8A-410C-9F9A-5E3EB622D616}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{35E44A13-1784-4652-93EE-F32E9B11E8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35E44A13-1784-4652-93EE-F32E9B11E8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35E44A13-1784-4652-93EE-F32E9B11E8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5631AA3-D755-462C-977E-A40287488E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5631AA3-D755-462C-977E-A40287488E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5631AA3-D755-462C-977E-A40287488E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5631AA3-D755-462C-977E-A40287488E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F423AEE4-FD8A-410C-9F9A-5E3EB622D616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F423AEE4-FD8A-410C-9F9A-5E3EB622D616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F423AEE4-FD8A-410C-9F9A-5E3EB622D616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F423AEE4-FD8A-410C-9F9A-5E3EB622D616}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
