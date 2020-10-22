@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.7_ThePonyExpress", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.7_ThePonyExpress.Tests", "Randori.7_ThePonyExpress.Tests\Randori.7_ThePonyExpress.Tests.csproj", "{F423AEE4-FD8A-410C-9F9A-5E3EB622D616}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.7_TwoOldestAges", "Randori.7_TwoOldestAges\Randori.7_TwoOldestAges.csproj", "{586964BF-A2F2-48D1-98E7-2461AE11B028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.7_TwoOldestAges.Tests", "Randori.7_TwoOldestAges.Tests\Randori.7_TwoOldestAges.Tests.csproj", "{29ACDC0A-41F6-4B98-A78D-824588555995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.7_CountTheDigit", "Randori.7_CountTheDigit\Randori.7_CountTheDigit.csproj", "{8166D6D4-7A0F-4A2D-80F4-095FAE956BCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +63,18 @@ Global
 		{F423AEE4-FD8A-410C-9F9A-5E3EB622D616}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F423AEE4-FD8A-410C-9F9A-5E3EB622D616}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F423AEE4-FD8A-410C-9F9A-5E3EB622D616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{586964BF-A2F2-48D1-98E7-2461AE11B028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586964BF-A2F2-48D1-98E7-2461AE11B028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586964BF-A2F2-48D1-98E7-2461AE11B028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586964BF-A2F2-48D1-98E7-2461AE11B028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29ACDC0A-41F6-4B98-A78D-824588555995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29ACDC0A-41F6-4B98-A78D-824588555995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29ACDC0A-41F6-4B98-A78D-824588555995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29ACDC0A-41F6-4B98-A78D-824588555995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8166D6D4-7A0F-4A2D-80F4-095FAE956BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8166D6D4-7A0F-4A2D-80F4-095FAE956BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8166D6D4-7A0F-4A2D-80F4-095FAE956BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8166D6D4-7A0F-4A2D-80F4-095FAE956BCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
