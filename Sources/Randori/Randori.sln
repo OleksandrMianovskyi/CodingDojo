@@ -35,6 +35,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SpecialNumbersSeries", "Spe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori._7__StrongNumber2.Tests", "Randori._7__StrongNumber2.Tests\Randori._7__StrongNumber2.Tests.csproj", "{D4D29FD8-BFD4-45AB-8104-2AA9409EE13A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.7_DisariumNumber_3", "Randori.7_DisariumNumber_3\Randori.7_DisariumNumber_3.csproj", "{36D6ED12-7FAE-4E7E-ABDB-40CCD9A69AA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{D4D29FD8-BFD4-45AB-8104-2AA9409EE13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4D29FD8-BFD4-45AB-8104-2AA9409EE13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4D29FD8-BFD4-45AB-8104-2AA9409EE13A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D6ED12-7FAE-4E7E-ABDB-40CCD9A69AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D6ED12-7FAE-4E7E-ABDB-40CCD9A69AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D6ED12-7FAE-4E7E-ABDB-40CCD9A69AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D6ED12-7FAE-4E7E-ABDB-40CCD9A69AA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -110,6 +116,7 @@ Global
 		{19888F45-42FE-48D1-A331-F4FC96BB155F} = {D5550642-77D4-4774-A329-8A4F7FD24F2A}
 		{F0FBFE14-2FE7-406E-A2B7-4B2CA123495C} = {D5550642-77D4-4774-A329-8A4F7FD24F2A}
 		{D4D29FD8-BFD4-45AB-8104-2AA9409EE13A} = {D5550642-77D4-4774-A329-8A4F7FD24F2A}
+		{36D6ED12-7FAE-4E7E-ABDB-40CCD9A69AA0} = {D5550642-77D4-4774-A329-8A4F7FD24F2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E793ADB-5BBF-4292-96A1-6108840534AE}
