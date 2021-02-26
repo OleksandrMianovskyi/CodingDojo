@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori._7__StrongNumber2.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.7_DisariumNumber_3", "Randori.7_DisariumNumber_3\Randori.7_DisariumNumber_3.csproj", "{36D6ED12-7FAE-4E7E-ABDB-40CCD9A69AA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori.7_MusicalTransposerChromatic", "Randori.7_MusicalTransposerChromatic\Randori.7_MusicalTransposerChromatic.csproj", "{2279063A-C773-47A9-B830-6657582814B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randori._7_MusicalTransposerChromatic.Tests", "Randori._7_MusicalTransposerChromatic.Tests\Randori._7_MusicalTransposerChromatic.Tests.csproj", "{C39FDC6E-C5E2-469C-8F55-FD97D306CB20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +111,14 @@ Global
 		{36D6ED12-7FAE-4E7E-ABDB-40CCD9A69AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36D6ED12-7FAE-4E7E-ABDB-40CCD9A69AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36D6ED12-7FAE-4E7E-ABDB-40CCD9A69AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2279063A-C773-47A9-B830-6657582814B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2279063A-C773-47A9-B830-6657582814B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2279063A-C773-47A9-B830-6657582814B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2279063A-C773-47A9-B830-6657582814B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C39FDC6E-C5E2-469C-8F55-FD97D306CB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39FDC6E-C5E2-469C-8F55-FD97D306CB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39FDC6E-C5E2-469C-8F55-FD97D306CB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39FDC6E-C5E2-469C-8F55-FD97D306CB20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
