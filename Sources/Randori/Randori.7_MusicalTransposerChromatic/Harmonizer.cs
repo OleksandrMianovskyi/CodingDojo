@@ -81,6 +81,7 @@ namespace Randori._7_MusicalTransposerChromatic
             }
 
             return d.Take(transposition + 1).Last();
+            //return new[]{"C","C#","D","D#","E","F","F#","G","G#","A","A#","B"}[(12+t+Array.IndexOf(new[]{"C","C#","D","D#","E","F","F#","G","G#","A","A#","B"},n))%12];
         }
 
         ////    "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"
