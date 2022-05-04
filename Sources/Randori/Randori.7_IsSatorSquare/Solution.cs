@@ -49,7 +49,7 @@ namespace Randori._7_IsSatorSquare
             //return columns.Intersect(columnsInvert).Intersect(rows).Intersect(rowsInvert).Count() == n + 1;
         }
 
-        class Solution
+        class Solution2
         {
             public static bool IsSatorSquare(char[,] tablet)
             {
